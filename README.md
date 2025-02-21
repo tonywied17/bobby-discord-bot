@@ -1,5 +1,5 @@
 # bobby-discord-bot
-Basic discord chatbot using open ai api and python
+Basic discord chatbot using open ai api and python to depressingly replicate a dead friend
 
 Install pip requirements
 ```bash
